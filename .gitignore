@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+*.csv
+captions*
+results*
+.cache/
+transformers_cache/
+.vscode/
+.DS_Store

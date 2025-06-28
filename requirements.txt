@@ -1,0 +1,12 @@
+# Base requirements
+transformers>=4.20.0
+Pillow>=8.3.0
+opencv-python>=4.5.0
+tqdm>=4.64.0
+torchvision>=0.17.0
+
+# For NVIDIA GPUs (CUDA)
+# pip install torch>=2.6.0+cu118 --index-url https://download.pytorch.org/whl/cu118
+
+# For CPU only
+torch>=2.6.0
