@@ -50,8 +50,6 @@ filename,caption
 
 I created this while working with AI-generated images and videos and found it tedious to manually organize the massive number of outputs. This tool helps automate that and is especially useful when dealing with big batches of SD/AnimateDiff content.
 
-Helpful for preparing rough CSV datasets or just organizing large batches of AI outputs by content.
-
 ![Chaos to order metaphor](assets/chaos_to_order.png)
 
 ## Requirements
